@@ -7,3 +7,6 @@ def tables():
             print()
 
 tables()
+print("Hello")
+print("This is AWS Jenkins class")
+print("Bye")
